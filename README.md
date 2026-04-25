@@ -45,4 +45,4 @@ ID.me used to directly support any TOTP authenticator app, but removed the optio
 
 ## License
 
-id-me-otpauth is licensed under GPLv3. Please see [`LICENSE`](./LICENSE) for the full license text.
+id-me-otpauth is licensed under GPL-3.0-only. Please see [`LICENSE`](./LICENSE) for the full license text.
