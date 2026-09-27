@@ -43,6 +43,14 @@ ID.me used to directly support any TOTP authenticator app, but removed the optio
 
 6. That's it!
 
+## Contributing
+
+([AI policy](https://github.com/chenxiaolong/chenxiaolong/blob/master/AI_POLICY.md))
+
+Bug fix pull requests are welcome and much appreciated!
+
+If you are interested in implementing a new feature and would like to see it included in id-me-otpauth, please open an issue to discuss it first.
+
 ## License
 
 id-me-otpauth is licensed under GPL-3.0-only. Please see [`LICENSE`](./LICENSE) for the full license text.
